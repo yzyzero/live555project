@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UsageEnvironment", "UsageEn
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mediaServer", "mediaServer\mediaServer.vcxproj", "{C63F285A-ECA8-4E0C-A956-1473A1D45E6F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openRTSP", "openRTSP\openRTSP.vcxproj", "{F3883E46-AE4A-401E-A721-CCF8F1F38019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -39,6 +41,10 @@ Global
 		{C63F285A-ECA8-4E0C-A956-1473A1D45E6F}.Debug|Win32.Build.0 = Debug|Win32
 		{C63F285A-ECA8-4E0C-A956-1473A1D45E6F}.Release|Win32.ActiveCfg = Release|Win32
 		{C63F285A-ECA8-4E0C-A956-1473A1D45E6F}.Release|Win32.Build.0 = Release|Win32
+		{F3883E46-AE4A-401E-A721-CCF8F1F38019}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3883E46-AE4A-401E-A721-CCF8F1F38019}.Debug|Win32.Build.0 = Debug|Win32
+		{F3883E46-AE4A-401E-A721-CCF8F1F38019}.Release|Win32.ActiveCfg = Release|Win32
+		{F3883E46-AE4A-401E-A721-CCF8F1F38019}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
